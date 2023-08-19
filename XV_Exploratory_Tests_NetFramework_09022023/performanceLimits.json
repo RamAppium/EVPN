@@ -1,0 +1,29 @@
+﻿[
+    {
+        "ExpressVPN.AppService": {
+            "ServiceName": "ExpressVPN.AppService",
+            "MaxRAM": "150",
+            "MaxCPU": "1.5"
+        },
+        "ExpressVPN.SystemService": {
+            "ServiceName": "ExpressVPN.SystemService",
+            "MaxRAM": "60",
+            "MaxCPU": "1.5"
+        },
+        "ExpressVPN.VpnService": {
+            "ServiceName": "ExpressVPN.VpnService",
+            "MaxRAM": "50",
+            "MaxCPU": "1.5"
+        },
+        "ExpressVPNNotificationService": {
+            "ServiceName": "ExpressVPNNotificationService",
+            "MaxRAM": "100",
+            "MaxCPU": "1.5"
+        }, 
+        "ExpressVPN": {
+            "ServiceName": "ExpressVPN",
+            "MaxRAM": "100",
+            "MaxCPU": "1.5"
+        }   
+    }
+]
